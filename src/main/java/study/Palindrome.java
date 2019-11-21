@@ -4,6 +4,9 @@ import org.apache.commons.lang3.StringUtils;
 
 import java.util.Stack;
 
+/**
+ * @author zyf
+ */
 public class Palindrome {
 
     private static SingleLinked addToLinked(String text) {
