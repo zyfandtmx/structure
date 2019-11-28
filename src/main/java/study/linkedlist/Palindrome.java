@@ -1,4 +1,4 @@
-package study;
+package study.linkedlist;
 
 import org.apache.commons.lang3.StringUtils;
 

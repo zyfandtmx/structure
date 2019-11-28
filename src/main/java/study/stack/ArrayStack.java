@@ -1,4 +1,4 @@
-package study;
+package study.stack;
 
 import java.util.Iterator;
 import java.util.Objects;

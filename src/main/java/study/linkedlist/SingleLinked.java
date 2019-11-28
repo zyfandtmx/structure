@@ -1,4 +1,4 @@
-package study;
+package study.linkedlist;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
